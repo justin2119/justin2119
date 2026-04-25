@@ -1,7 +1,16 @@
-# 💫 About Me:
-Actuellement je travaille sur un projet flutter 
+# 💻💻💻 About Me:
+<h1>Justin BINA</h1>
+<h2><i>Développeur Web & Mobile | Professeur de Physique-Chimie | Basé à Lomé, Togo</i></h2>
 
+Passionné par la tech et la transmission du savoir, je vis à la croisée de deux mondes : le code et la science.
 
+Le jour, j’enseigne la physique-chimie et j’aide mes élèves à décrypter les lois qui régissent notre univers. Le reste du temps, je construis des applications web et mobiles qui résolvent des problèmes concrets. Avec Flutter, Firebase, et les technos web modernes, je transforme des idées en produits rapides, propres et utiles.
+Ce qui me drive : créer des outils qui ont un impact, que ce soit une app qui simplifie la vie de milliers d’utilisateurs ou un cours qui débloque un élève. Rigueur scientifique, exigence du code, et pédagogie sont mes boussoles.
+
+Actuellement ouvert aux collaborations, missions freelance et projets à impact en Afrique et à l’international.
+
+*Stack* : Flutter, Dart, Firebase, React,Node.js, Python
+*En dehors du code* : Je vulgarise la science, je forme, et je crois dur comme fer que l’éducation + la tech vont changer le continent.
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Justin BINA) 
 
