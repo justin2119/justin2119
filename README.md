@@ -1,36 +1,59 @@
-# 💻💻💻 About Me:
-<h1>Justin BINA</h1>
-<h2><i>Développeur Web & Mobile | Professeur de Physique-Chimie | Basé à Lomé, Togo</i></h2>
+# <h1>Justin BINA</h1>
+## <b>Lead Developer | Spécialiste TogoLM (AI & LLM) | Architecte Solutions</b>
+<p align="left">
+  <a href="https://linkedin.com/in/Justin BINA"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+</p>
 
-Passionné par la tech et la transmission du savoir, je vis à la croisée de deux mondes : le code et la science.
-
-Le jour, j’enseigne la physique-chimie et j’aide mes élèves à décrypter les lois qui régissent notre univers. Le reste du temps, je construis des applications web et mobiles qui résolvent des problèmes concrets. Avec Flutter, Firebase, et les technos web modernes, je transforme des idées en produits rapides, propres et utiles.
-Ce qui me drive : créer des outils qui ont un impact, que ce soit une app qui simplifie la vie de milliers d’utilisateurs ou un cours qui débloque un élève. Rigueur scientifique, exigence du code, et pédagogie sont mes boussoles.
-
-Actuellement ouvert aux collaborations, missions freelance et projets à impact en Afrique et à l’international.
-
-*Stack* : Flutter, Dart, Firebase, React,Node.js, Python
-*En dehors du code* : Je vulgarise la science, je forme, et je crois dur comme fer que l’éducation + la tech vont changer le continent.
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Justin BINA) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white) ![Fortran](https://img.shields.io/badge/Fortran-%23734F96.svg?style=flat&logo=fortran&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=flat&logo=latex&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat&logo=dart&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=flat&logo=render&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=flat&logo=heroku&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=flat&logo=chart.js&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=flat&logo=ejs&logoColor=black) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=flat&logo=expo&logoColor=#D04A37) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=flat&logo=nodemon&logoColor=%BBDEAD) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=react-router&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat&logo=redux&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=flat&logo=socket.io&badgeColor=010101) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=flat&logo=adobe&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=flat&logo=Adobe%20XD&logoColor=#FF61F6) ![Adobe Lightroom Classic](https://img.shields.io/badge/Adobe%20Lightroom%20Classic-31A8FF.svg?style=flat&logo=Adobe%20Lightroom%20Classic&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=flat&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=flat&logo=adobe%20illustrator&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat&logo=adobe%20photoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat&logo=plotly&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=justin2119&theme=algolia&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=justin2119&theme=algolia&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=justin2119&theme=algolia&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=justin2119&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=justin2119&limit=5&theme=dark&combine_all_yearly_contributions=true)
+Expert en développement d'applications à haute performance et spécialiste des technologies de Large Language Models (LLM) appliquées au contexte africain (TogoLM). Je combine rigueur scientifique et excellence technique pour bâtir des produits numériques scalables, propres et à fort impact.
 
 ---
-[![](https://komarev.com/ghpvc/?username=justin2119&icon=3&color=9)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🧠 Expertise TogoLM & Intelligence Artificielle
+Je m'engage pour la **souveraineté numérique en Afrique** à travers le projet **TogoLM**. Mon travail se concentre sur l'adaptation et le déploiement de modèles de langage de pointe pour répondre aux défis locaux.
+*   **LLM & RAG** : Conception d'architectures de Retrieval-Augmented Generation pour l'exploitation de données spécifiques.
+*   **NLP Localisé** : Optimisation de modèles pour les langues et contextes d'Afrique de l'Ouest.
+*   **IA Éthique** : Développement de solutions d'IA souveraines, sécurisées et centrées sur l'utilisateur.
+
+### 🏗️ Lead Development & Mentorat
+Fort d'un double background en Sciences Physiques et en Ingénierie Logicielle, j'apporte une approche analytique unique à la direction technique :
+*   **Architecture** : Champion de la *Clean Architecture* et des principes SOLID pour garantir la maintenabilité.
+*   **Mentorat** : Ma passion pour l'enseignement se traduit par un accompagnement quotidien des équipes (Code Reviews, Pair Programming, Workshops techniques).
+*   **Vision Produit** : Traduction de besoins business complexes en roadmaps techniques robustes.
+
+---
+
+### 💻 Tech Stack
+
+#### **Primary Expertise (Core Stack)**
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) 
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+*   **Architecture** : Clean Architecture, DDD.
+*   **State Management** : Riverpod (Expert), Bloc/Cubit.
+
+#### **Backend & Intelligence Artificielle**
+![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) 
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
+*   **AI Tools** : LangChain, OpenAI API, HuggingFace, Vector Databases.
+
+#### **Web & Design**
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
+
+---
+
+### 📊 GitHub Insights
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=justin2119&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="Justin's Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=justin2119&theme=radical&hide_border=false&layout=compact" alt="Top Languages" />
+</p>
+
+---
+*En dehors du code, je continue de vulgariser la science et de former la prochaine génération de talents tech au Togo. Je crois fermement que l’éducation couplée à la technologie est le moteur du changement sur le continent.*
