@@ -2,6 +2,7 @@
 ## <b>Développeur Mobile (Flutter) & Web | Enseignant de Sciences Physiques | Contributeur TogoLM</b>
 <p align="left">
   <a href="https://linkedin.com/in/Justin BINA"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://wa.me/22870135585"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
 </p>
 
 Passionné par la tech et la transmission du savoir, je vis à la croisée de deux mondes : le code et la science. Avec une approche méthodique héritée des sciences physiques, je construis des applications web et mobiles performantes, propres et centrées sur l'utilisateur.
@@ -29,7 +30,7 @@ Fier contributeur de **TogoLM**, je participe activement au développement de mo
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) 
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
 #### **Backend, IA & Tools**
