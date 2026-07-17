@@ -3,6 +3,7 @@
 <p align="left">
   <a href="https://linkedin.com/in/Justin BINA"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://wa.me/22870135585"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
+  <a href="mailto:justinbina515@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
 Passionné par la tech et la transmission du savoir, je vis à la croisée de deux mondes : le code et la science. Avec une approche méthodique héritée des sciences physiques, je construis des applications web et mobiles performantes, propres et centrées sur l'utilisateur.
