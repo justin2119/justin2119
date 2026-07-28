@@ -26,16 +26,16 @@
 <div align="center">
   ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
   ![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-  ![Riverpod](https://img.shields.io/badge/Riverpod-%2300C853.svg?style=for-the-badge&logo=flutter&logoColor=white)
+  ![Riverpod](https://img.shields.io/badge/Riverpod-%2300C853.svg?style=for-the-badge)
   ![Clean Architecture MVVM](https://img.shields.io/badge/Clean%20Architecture%20MVVM-000000?style=for-the-badge)
   ![Supabase](https://img.shields.io/badge/Supabase-%23323639.svg?style=for-the-badge&logo=supabase&logoColor=white)
 </div>
 
-- **Flutter** – Cross‑platform UI framework for beautiful, native‑like apps.
+- **Flutter** – Cross‑platform UI framework for beautiful native‑like apps.
 - **Dart** – Modern, type‑safe language powering Flutter.
 - **Riverpod** – Scalable, testable state‑management solution.
-- **Clean Architecture MVVM** – Structured, maintainable codebase.
-- **Supabase** – Open‑source backend-as‑a‑service (auth, DB, storage).
+- **Clean Architecture MVVM** – Structured, maintainable codebase.
+- **Supabase** – Open‑source backend‑as‑a‑service (auth, DB, storage).
 
 ---
 
