@@ -6,12 +6,18 @@
   <a href="mailto:justinbina515@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
+<!-- Animated typing effect -->
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=30&duration=4000&pause=1000&color=0D1117&background=00000000&center=true&width=500&lines=Welcome+to+my+profile%2C+explore+my+skills+and+projects" alt="Typing SVG" />
+
+<!-- Subtle animated divider -->
+<img src="https://media.giphy.com/media/l0HlJwRZbI6b6T1qA/giphy.gif" alt="Animated Divider" style="width:100%;max-height:30px;"/>
+
 Passionné par la tech et la transmission du savoir, je vis à la croisée de deux mondes : le code et la science. Avec une approche méthodique héritée des sciences physiques, je construis des applications web et mobiles performantes, propres et centrées sur l'utilisateur.
 
 ---
 
 ### 👨‍🏫 Une double expertise : Code & Science
-Ma force réside dans cette doubleité. En tant qu'**enseignant**, je maîtrise l'art de vulgariser des concepts complexes et de structurer l'apprentissage. En tant que **développeur**, j'applique cette même rigueur pour concevoir des architectures logicielles robustes et maintenables.
+Ma force réside dans cette dualité. En tant qu'**enseignant**, je maîtrise l'art de vulgariser des concepts complexes et de structurer l'apprentissage. En tant que **développeur**, j'applique cette même rigueur pour concevoir des architectures logicielles robustes et maintenables.
 - **Pédagogie & Mentorat** : Capacité unique à former des équipes et à documenter des solutions techniques de manière claire.
 - **Rigueur Scientifique** : Analyse de données, résolution de problèmes complexes et optimisation continue.
 
