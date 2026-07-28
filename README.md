@@ -1,47 +1,41 @@
 # <h1>Justin BINA</h1>
-## <b>Développeur Mobile (Flutter) & Web | Enseignant de Sciences Physiques | Contributeur TogoLM</b>
-<p align="left">
-  <a href="https://linkedin.com/in/Justin BINA"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+## <b>Développeur Mobile (Flutter) • Enseignant de Sciences Physiques • Contributeur TogoLM</b>
+
+<p align="center">
+  <a href="https://linkedin.com/in/Justin%20BINA"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://wa.me/22870135585"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
   <a href="mailto:justinbina515@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
-<!-- Animated typing effect -->
-<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=30&duration=4000&pause=1000&color=0D1117&background=00000000&center=true&width=500&lines=Welcome+to+my+profile%2C+explore+my+skills+and+projects" alt="Typing SVG" />
+<!-- Subtle animated typing SVG -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=30&duration=4000&pause=1000&color=0D1117&background=00000000&center=true&width=500&lines=Welcome+to+my+profile%2C+explore+my+skills+and+projects" alt="Typing SVG" />
+</p>
 
 <!-- Subtle animated divider -->
-<img src="https://media.giphy.com/media/l0HlJwRZbI6b6T1qA/giphy.gif" alt="Animated Divider" style="width:100%;max-height:30px;"/>
+<p align="center">
+  <img src="https://media.giphy.com/media/l0HlJwRZbI6b6T1qA/giphy.gif" alt="Animated Divider" style="width:80%;max-height:30px;"/>
+</p>
 
-Passionné par la tech et la transmission du savoir, je vis à la croisée de deux mondes : le code et la science. Avec une approche méthodique héritée des sciences physiques, je construis des applications web et mobiles performantes, propres et centrées sur l'utilisateur.
+<p align="center">Passionné par la technologie et la transmission du savoir, je conçois des applications mobiles et web performantes, alliant rigueur scientifique et expérience utilisateur.</p>
 
 ---
 
-### 👨‍🏫 Une double expertise : Code & Science
-Ma force réside dans cette dualité. En tant qu'**enseignant**, je maîtrise l'art de vulgariser des concepts complexes et de structurer l'apprentissage. En tant que **développeur**, j'applique cette même rigueur pour concevoir des architectures logicielles robustes et maintenables.
-- **Pédagogie & Mentorat** : Capacité unique à former des équipes et à documenter des solutions techniques de manière claire.
-- **Rigueur Scientifique** : Analyse de données, résolution de problèmes complexes et optimisation continue.
+### 🛠️ Tech Stack & Skills
 
-### 📱 Développement Mobile & Web
-Expertise centrée sur l'écosystème Flutter pour le cross-platform et les technologies web modernes pour des solutions full-stack.
-- **Architecture** : Clean Architecture, DDD, SOLID.
-- **State Management** : Maîtrise avancée de Riverpod et Bloc/Cubit.
+<div align="center">
+  ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
+  ![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+  ![Riverpod](https://img.shields.io/badge/Riverpod-%2300C853.svg?style=for-the-badge&logo=flutter&logoColor=white)
+  ![Clean Architecture MVVM](https://img.shields.io/badge/Clean%20Architecture%20MVVM-000000?style=for-the-badge)
+  ![Supabase](https://img.shields.io/badge/Supabase-%23323639.svg?style=for-the-badge&logo=supabase&logoColor=white)
+</div>
 
-#### **Mobile & Web (Expertise Core)**
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) 
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Clean Architecture MVVM](https://img.shields.io/badge/Clean%20Architecture%20MVVM-000000?style=for-the-badge)
-![Flutter Logo](https://raw.githubusercontent.com/flutter/assets/master/images/branding/flutter-logo.png)
-
-#### **Backend, IA & Tools**
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) 
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/supabase-%23323639.svg?style=for-the-badge&logo=supabase&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
+- **Flutter** – Cross‑platform UI framework for beautiful, native‑like apps.
+- **Dart** – Modern, type‑safe language powering Flutter.
+- **Riverpod** – Scalable, testable state‑management solution.
+- **Clean Architecture MVVM** – Structured, maintainable codebase.
+- **Supabase** – Open‑source backend-as‑a‑service (auth, DB, storage).
 
 ---
 
@@ -51,4 +45,5 @@ Expertise centrée sur l'écosystème Flutter pour le cross-platform et les tech
 </p>
 
 ---
-*Basé à Lomé, Togo. Ouvert aux collaborations sur des projets à fort impact mêlant éducation, technologie et innovation africaine.*
+
+*Basé à Lomé, Togo. Ouvert aux collaborations à fort impact mêlant éducation, technologie et innovation africaine.*
