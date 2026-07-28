@@ -46,4 +46,4 @@
 
 ---
 
-*Basé à Lomé, Togo. Ouvert aux collaborations à fort impact mêlant éducation, technologie et innovation africaine.*
+*Basé à Sokode, Togo. Ouvert aux collaborations à fort impact mêlant éducation, technologie et innovation africaine. *
