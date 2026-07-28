@@ -23,13 +23,13 @@
 
 ### 🛠️ Tech Stack & Skills
 
-<div align="center">
-  ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
-  ![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-  ![Riverpod](https://img.shields.io/badge/Riverpod-%2300C853.svg?style=for-the-badge)
-  ![Clean Architecture MVVM](https://img.shields.io/badge/Clean%20Architecture%20MVVM-000000?style=for-the-badge)
-  ![Supabase](https://img.shields.io/badge/Supabase-%23323639.svg?style=for-the-badge&logo=supabase&logoColor=white)
-</div>
+**Tech Stack:**
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge)
+![Riverpod](https://img.shields.io/badge/Riverpod-00C853?style=for-the-badge)
+![Clean Architecture MVVM](https://img.shields.io/badge/Clean%20Architecture%20MVVM-000000?style=for-the-badge)
+![Supabase](https://img.shields.io/badge/Supabase-323639?style=for-the-badge)
 
 - **Flutter** – Cross‑platform UI framework for beautiful native‑like apps.
 - **Dart** – Modern, type‑safe language powering Flutter.
