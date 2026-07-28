@@ -20,19 +20,13 @@ Expertise centrée sur l'écosystème Flutter pour le cross-platform et les tech
 - **Architecture** : Clean Architecture, DDD, SOLID.
 - **State Management** : Maîtrise avancée de Riverpod et Bloc/Cubit.
 
-### 🌍 Engagement TogoLM
-Fier contributeur de **TogoLM**, je participe activement au développement de modèles de langage souverains pour l'Afrique. Mon apport se concentre sur l'intégration de ces technologies IA dans des produits concrets pour favoriser l'innovation locale.
-
----
-
-### 💻 Tech Stack
-
 #### **Mobile & Web (Expertise Core)**
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) 
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Clean Architecture MVVM](https://img.shields.io/badge/Clean%20Architecture%20MVVM-000000?style=for-the-badge)
 
 #### **Backend, IA & Tools**
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) 
