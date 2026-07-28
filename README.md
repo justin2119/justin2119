@@ -11,7 +11,7 @@ Passionné par la tech et la transmission du savoir, je vis à la croisée de de
 ---
 
 ### 👨‍🏫 Une double expertise : Code & Science
-Ma force réside dans cette dualité. En tant qu'**enseignant**, je maîtrise l'art de vulgariser des concepts complexes et de structurer l'apprentissage. En tant que **développeur**, j'applique cette même rigueur pour concevoir des architectures logicielles robustes et maintenables.
+Ma force réside dans cette doubleité. En tant qu'**enseignant**, je maîtrise l'art de vulgariser des concepts complexes et de structurer l'apprentissage. En tant que **développeur**, j'applique cette même rigueur pour concevoir des architectures logicielles robustes et maintenables.
 - **Pédagogie & Mentorat** : Capacité unique à former des équipes et à documenter des solutions techniques de manière claire.
 - **Rigueur Scientifique** : Analyse de données, résolution de problèmes complexes et optimisation continue.
 
@@ -27,6 +27,7 @@ Expertise centrée sur l'écosystème Flutter pour le cross-platform et les tech
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Clean Architecture MVVM](https://img.shields.io/badge/Clean%20Architecture%20MVVM-000000?style=for-the-badge)
+![Flutter Logo](https://raw.githubusercontent.com/flutter/assets/master/images/branding/flutter-logo.png)
 
 #### **Backend, IA & Tools**
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) 
